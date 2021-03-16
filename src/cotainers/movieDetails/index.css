@@ -1,0 +1,12 @@
+.image-section{
+    height:50vh;
+    width:20vw;
+}
+.view-similar{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.movie-details-main{
+    margin-top:2vh;
+}
